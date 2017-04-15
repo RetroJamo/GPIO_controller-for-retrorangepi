@@ -3,12 +3,12 @@
 
 go to your command line by pressing the F4 key from emulationstation the type the following commands:
 
-wget https://github.com/pjmcardle/GPIO_controller-for-retrorangepi/blob/master/TZGPIO.tar.gz
-tar -xzvf TZGPIO.tar.gz
-cd gpio
-chmod +x install.sh
-sudo ./install.sh
-sudo reboot
+$ wget https://github.com/pjmcardle/GPIO_controller-for-retrorangepi/blob/master/TZGPIO.tar.gz
+$ tar -xzvf TZGPIO.tar.gz
+$ cd gpio
+$ chmod +x install.sh
+$ sudo ./install.sh
+$ sudo reboot
 
 now check to see if your controllers are recognized in emulationstation after your system restarts
 
