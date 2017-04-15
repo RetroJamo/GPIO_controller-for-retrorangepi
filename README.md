@@ -1,6 +1,9 @@
 # GPIO_controller-for-retrorangepi
+# forked version to utilize additional GPIO to have 10 buttons per player vs. original 8
 
-Just extract, change directory
+$ wget https://github.com/pjmcardle/GPIO_controller-for-retrorangepi/edit/master/
+$ tar -zxvf 
+$ cd 
 
 $ chmod +x install.sh
 $ ./install.sh
