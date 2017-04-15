@@ -3,7 +3,7 @@
 
 go to your command line by pressing the F4 key from emulationstation the type the following commands:
 
-$ wget https://github.com/pjmcardle/GPIO_controller-for-retrorangepi/blob/master/TZGPIO.tar.gz
+$ wget https://github.com/pjmcardle/GPIO_controller-for-retrorangepi/raw/master/TZGPIO.tar.gz
 
 $ tar -xzvf TZGPIO.tar.gz
 
