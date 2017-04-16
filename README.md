@@ -25,4 +25,6 @@ You can also add the following 4 button inputs beyond what the image above shows
 Player 1: pins 3 & 27
 Player 2: pins 5 & 28
 
-enjoy
+Open the file above RetrOrangePi_GPIO_Pinout.xlsx to see all locations.
+
+Happy gaming!
